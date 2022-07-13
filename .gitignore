@@ -9,6 +9,4 @@ data/views/*.csv
 *.xlsx
 _dev
 catboost_info
-data/views
-data/split
 *.zip
