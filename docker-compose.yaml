@@ -1,0 +1,12 @@
+version: "3.9"
+services:
+  lab:
+    build: 
+      context: .
+      dockerfile: ./Dockerfile
+    ports:
+      - "8888:8888"
+    volumes: 
+      - .:/app
+    stdin_open: true
+    tty: true

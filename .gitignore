@@ -1,0 +1,14 @@
+__pycache__
+.vscode
+*.log
+.ipynb_checkpoints
+*.pyc
+data/input/*.csv
+data/output/*.csv
+data/views/*.csv
+*.xlsx
+_dev
+catboost_info
+data/views
+data/split
+*.zip

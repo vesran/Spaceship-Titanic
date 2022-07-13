@@ -1,0 +1,10 @@
+pandas
+sklearn
+catboost
+matplotlib
+seaborn
+tqdm
+spacy
+unidecode
+prince
+jupyterlab
