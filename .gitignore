@@ -10,3 +10,4 @@ data/views/*.csv
 _dev
 catboost_info
 *.zip
+jenkins_data

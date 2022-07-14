@@ -8,3 +8,4 @@ spacy
 unidecode
 prince
 jupyterlab
+pytest
